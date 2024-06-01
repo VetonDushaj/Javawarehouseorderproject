@@ -1,0 +1,7 @@
+Order ID: 1
+Order Date: Sat Jun 01 19:21:44 CEST 2024
+Order Description: Customer Order
+Order Total Cost: $2800.0
+Products:
+Laptop, Quantity: 1, Cost: $1200.0
+Smartphone, Quantity: 2, Cost: $1600.0
